@@ -1,0 +1,22 @@
+{
+    "labels": [
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre"
+    ],
+    "datasets": [
+      {
+        "label": "# de ganancias",
+        "data": [6000, 35000, 8010, 5440, 8050, 6450, 58203, 89131, 20042, 11500, 20000],
+        "borderWidth": 1
+      }
+    ]
+  }
